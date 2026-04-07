@@ -1,11 +1,9 @@
 aid: navy
-url: 
-  https://raw.githubusercontent.com/api-evangelist/navy/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/navy/refs/heads/main/apis.yml
 apis:
   - aid: navy:navy
     name: Navy
-    tags:
-      - API
+    tags: []
     humanURL: https://www.cnatra.navy.mil/api.asp
     properties:
       - url: https://www.cnatra.navy.mil/api.asp
