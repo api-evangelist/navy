@@ -25,6 +25,10 @@ maintainers:
     email: kin@apievangelist.com
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/usnavy
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/us-navy
   - type: Website
     url: https://www.navy.mil/
   - type: Website
