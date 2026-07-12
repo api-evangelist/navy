@@ -1,0 +1,21 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.navy.mil
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 27 17:48:31 2026 GMT
+  hsts: null
+- host: www.cnatra.navy.mil
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Jul 20 12:07:20 2026 GMT
+  hsts: null
+domains:
+- domain: navy.mil
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: reject

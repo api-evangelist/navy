@@ -25,6 +25,8 @@ maintainers:
     email: kin@apievangelist.com
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/navy-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/usnavy
   - type: LinkedIn
