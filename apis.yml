@@ -2,6 +2,10 @@ aid: navy
 url: https://raw.githubusercontent.com/api-evangelist/navy/refs/heads/main/apis.yml
 name: Navy
 tags:
+  - Federal-Government
+  - Military
+  - Defense
+tags_raw:
   - Federal Government
   - Military
   - Defense
