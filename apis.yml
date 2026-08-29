@@ -1,5 +1,8 @@
 aid: navy
 url: https://raw.githubusercontent.com/api-evangelist/navy/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public APIs have been identified at this time."
 name: Navy
 tags:
   - Federal-Government
